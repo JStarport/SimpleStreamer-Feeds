@@ -1,1 +1,20 @@
 
+<? xml version="1.0" ?>
+<rss version="2.0">
+ <channel>
+  <title>SimpleStreamer Demo</title>
+  
+  <item>
+   <title>This is a fully functional demo of the complete SimpleStreamer Setup!</title>
+  </item>
+  
+  <item>
+   <title>Feel free to navigate around the interface to see what our setup has to offer!</title>
+  </item>
+  
+  <item>
+   <title></title>
+  </item>
+  
+ </channel>
+</rss>
